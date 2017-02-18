@@ -1,0 +1,100 @@
+* {
+	border: 2px solid red;
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	background: #fd6b6c;
+	background-image: url("../images/USflagimage1.jpg");
+	overflow: auto;
+}
+
+.header {
+padding: 25px 0 0px 10px;
+text-align: left;
+font-size: 2.1em;
+font-family: 'Sanchez', serif;
+color: #fbeace;
+}
+
+.subHeader {
+padding: 15px 0 0px 10px;
+text-align: left;
+font-size: 1.5em;
+font-family: 'Sanchez', serif;
+color: #fbeace;
+}
+
+p {
+	font-size: .8em;
+	font-style: 'Yrsa', serif;
+	/*color: #fbeace;*/
+	color: #fbeace;
+}
+
+/*.main {
+	margin: 15px 0 15px;
+    position: relative;
+    overflow: hidden;
+}
+
+.main p {
+	padding: 15px 40px 15px;
+	position: relative;
+	z-index: 2;
+	text-align: left;
+}*/
+
+.main img {
+    margin-top: 10px;
+    float: left;
+    width: 100%;
+    height: auto;
+    opacity: 0.8;
+    margin-left: 0;
+    padding-left: 0;
+    padding-top: 20px;
+}
+
+.final {
+	padding: 20px 0 20px 10px;
+	text-align: left;
+}
+
+.final2 {
+	/*padding: 20px 0 20px 10px;
+	text-align: left;*/
+}
+
+h3 {
+	padding-bottom: 20px;
+	font-size: 1.8em;
+	font-style: 'Days One', sans-serif;
+	color: #fbeace;
+}
+
+.side {
+    padding-top: 50px;
+    text-align: left;
+}
+
+#text,
+.side
+{
+	font-style: 'Days One', sans-serif;
+	font-size: 1.8em;
+	color: #fbeace;
+}
+
+#text2 {
+	font-style: 'Days One', sans-serif;
+	font-size: 1.3em;
+	padding-top: 45px;
+	color: #fbeace;
+}
+
+/*font-family: 'Yrsa', serif;
+font-family: 'Sanchez', serif;
+font-family: 'Days One', sans-serif;
+font-family: 'Playfair Display SC', serif;*/
