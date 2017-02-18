@@ -1,5 +1,4 @@
 * {
-	border: 2px solid red;
 	margin: 0;
 	padding: 0;
 }
@@ -33,19 +32,6 @@ p {
 	color: #fbeace;
 }
 
-/*.main {
-	margin: 15px 0 15px;
-    position: relative;
-    overflow: hidden;
-}
-
-.main p {
-	padding: 15px 40px 15px;
-	position: relative;
-	z-index: 2;
-	text-align: left;
-}*/
-
 .main img {
     margin-top: 10px;
     float: left;
@@ -60,11 +46,6 @@ p {
 .final {
 	padding: 20px 0 20px 10px;
 	text-align: left;
-}
-
-.final2 {
-	/*padding: 20px 0 20px 10px;
-	text-align: left;*/
 }
 
 h3 {
