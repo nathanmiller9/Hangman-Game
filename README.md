@@ -23,4 +23,4 @@
 - JavaScript
 
 ## Code Explanation
-In JS, learned a lot about for loops, conditional statements, objects, methods, functions, and user interaction.
+In JS, I learned a lot about for loops, conditional statements, objects, methods, functions, and user interaction.
