@@ -1,35 +1,35 @@
 * {
-	margin: 0;
-	padding: 0;
+    margin: 0;
+    padding: 0;
 }
 
 .container {
-	background: #fd6b6c;
-	background-image: url("../images/USflagimage1.jpg");
-	overflow: auto;
+    background: #fd6b6c;
+    background-image: url("../images/USflagimage1.jpg");
+    overflow: auto;
 }
 
 .header {
-padding: 25px 0 0px 10px;
-text-align: left;
-font-size: 2.1em;
-font-family: 'Sanchez', serif;
-color: #fbeace;
+    padding: 25px 0 0px 10px;
+    text-align: left;
+    font-size: 2.1em;
+    font-family: 'Sanchez', serif;
+    color: #fbeace;
 }
 
 .subHeader {
-padding: 15px 0 0px 10px;
-text-align: left;
-font-size: 1.5em;
-font-family: 'Sanchez', serif;
-color: #fbeace;
+    padding: 15px 0 0px 10px;
+    text-align: left;
+    font-size: 1.5em;
+    font-family: 'Sanchez', serif;
+    color: #fbeace;
 }
 
 p {
-	font-size: .8em;
-	font-style: 'Yrsa', serif;
-	/*color: #fbeace;*/
-	color: #fbeace;
+    font-size: .8em;
+    font-style: 'Yrsa', serif;
+    /*color: #fbeace;*/
+    color: #fbeace;
 }
 
 .main img {
@@ -44,15 +44,15 @@ p {
 }
 
 .final {
-	padding: 20px 0 20px 10px;
-	text-align: left;
+    padding: 20px 0 20px 10px;
+    text-align: left;
 }
 
 h3 {
-	padding-bottom: 20px;
-	font-size: 1.8em;
-	font-style: 'Days One', sans-serif;
-	color: #fbeace;
+    padding-bottom: 20px;
+    font-size: 1.8em;
+    font-style: 'Days One', sans-serif;
+    color: #fbeace;
 }
 
 .side {
@@ -61,21 +61,16 @@ h3 {
 }
 
 #text,
-.side
-{
-	font-style: 'Days One', sans-serif;
-	font-size: 1.8em;
-	color: #fbeace;
+.side {
+    font-style: 'Days One', sans-serif;
+    font-size: 1.8em;
+    color: #fbeace;
 }
 
 #text2 {
-	font-style: 'Days One', sans-serif;
-	font-size: 1.3em;
-	padding-top: 45px;
-	color: #fbeace;
+    font-style: 'Days One', sans-serif;
+    font-size: 1.3em;
+    padding-top: 45px;
+    color: #fbeace;
 }
 
-/*font-family: 'Yrsa', serif;
-font-family: 'Sanchez', serif;
-font-family: 'Days One', sans-serif;
-font-family: 'Playfair Display SC', serif;*/

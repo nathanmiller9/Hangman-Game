@@ -21,6 +21,9 @@
 - HTML
 - CSS/Bootstrap
 - JavaScript
-
-## Code Explanation
-In JS, I learned a lot about for loops, conditional statements, objects, methods, functions, and user interaction.
+	- For loops
+	- Conditional statements
+	- Objects
+	- Methods
+	- Functions
+	- User Interaction
