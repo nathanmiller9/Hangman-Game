@@ -5,19 +5,12 @@
 
 ## Simply click the live link above to load the game and start playing hangman!
 
-## Requirements
-- Create a hangman game that has a theme.
-- Use key events to listen for the letters that your players will type.
-- Display the following on the page:
+## Game Play
 1. Press any key to get started!
-2. Wins: (# of times user guessed the word correctly).
-3. If the word is madonna, display it like this when the game starts: _ _ _ _ _ _ _.
-4. As the user guesses the correct letters, reveal them: m a d o _  _ a.
-5. Number of Guesses Remaining: (# of guesses remaining for the user).
-6. Letters Already Guessed: (Letters the user has guessed, displayed like L Z Y H).
-7. After the user wins or loses, the game should automatically choose another word for the user to guess again.
+2. Wins and losses will update automatically.
+3. After you win or lose, the game will automatically choose another word and you can play again.
 
-## Technologies used in this assignment were:
+## Technologies used:
 - HTML
 - CSS/Bootstrap
 - JavaScript
